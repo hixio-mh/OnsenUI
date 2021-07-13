@@ -145,7 +145,7 @@
     "rollup-plugin-visualizer": "^0.3.1",
     "stylelint": "^13.6.1",
     "typescript": "^3.9.7",
-    "uglify-js": "^3.1.8",
+    "uglify-js": "^3.13.9",
     "watch": "^1.0.2",
     "wcdoc": "0.1.19",
     "webdriverio": "^4.4.0"
