@@ -152,6 +152,6 @@
   },
   "dependencies": {
     "@onsenui/custom-elements": "1.0.0",
-    "core-js": "^3.8.1"
+    "core-js": "^3.15.0"
   }
 }
