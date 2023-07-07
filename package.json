@@ -143,7 +143,7 @@
     "rollup-plugin-progress": "^1.1.2",
     "rollup-plugin-string": "^2.0.2",
     "rollup-plugin-visualizer": "^0.3.1",
-    "stylelint": "^13.6.1",
+    "stylelint": "^15.10.1",
     "typescript": "^3.9.7",
     "uglify-js": "^3.1.8",
     "watch": "^1.0.2",
